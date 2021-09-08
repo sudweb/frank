@@ -3,7 +3,7 @@
 title: Pour Frank
 timezone: Europe/Paris
 
-url: https://frank.sudweb.fr
+url: https://sudweb.github.io/frank/
 locale: fr_FR
 
 ## SEO
@@ -13,7 +13,7 @@ collections:
   testimonies:
     output: true
 
-logo: /assets/images/twittercard.png
+logo: /images/twittercard.png
 
 microtypo:
   median: true
