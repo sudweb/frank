@@ -6,9 +6,15 @@ Merci à vous, merci pour Frank.
 
 ## Notice
 
-Url pour ajouter du contenu : https://github.com/sudweb/frank/tree/master/_testimonies
+URL pour ajouter du contenu :
+https://github.com/sudweb/frank/tree/master/_testimonies
 
-Ajoutez un fichier `prenom-nom.md`
+Ajoutez un fichier :
+
+1. Aller en haut à droite et cliquer sur `Add file > Create new file`
+2. Au dessus de la partie édition, nommez votre fichier à partir de cette exemple : `prenom-nom.md`
+3. Ajoutez votre texte
+4. Validez le bouton en bas, pour créer une `Pull Request` que nous publierons sans modération.
 
 **Avec un contenu de ce type à l’intérieur :**
 
@@ -25,7 +31,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ```
 
-**Ou plus simple juste**
+**Ou plus simple (juste) :**
 
 ```
 ## Mon titre
