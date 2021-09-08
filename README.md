@@ -1,6 +1,6 @@
 # For you Frank
 
-Si vous voulez laisser un message pour la famille de Frank. On espère que ces textes pourront être transmis à ses proches avant la cérémonie et que peut-être certains pourront être lus à la cérémonie.
+Si vous voulez laisser un message pour la famille de Frank (https://github.com/DirtyF). On espère que ces textes pourront être transmis à ses proches avant la cérémonie et que peut-être certains pourront être lus à la cérémonie.
 
 Merci à vous, merci pour Frank.
 
