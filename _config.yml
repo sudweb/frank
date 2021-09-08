@@ -1,0 +1,20 @@
+# Site configuration
+
+title: Pour Frank
+timezone: Europe/Paris
+
+url: https://frank.sudweb.fr
+locale: fr_FR
+
+## SEO
+robots: index,follow
+
+collections:
+  testimonies:
+    output: true
+
+logo: /assets/images/twittercard.png
+
+microtypo:
+  median: true
+
