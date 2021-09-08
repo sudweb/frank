@@ -39,8 +39,9 @@ i18n-key: home
         <meta property="og:locale" content="{{ page.locale }}">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@SudWeb">
+        <meta name="twitter:title" content="A notre regretté Frank">
         <meta name="twitter:creator" content="@SudWeb">
-        <meta name="twitter:image" content="{{ site.baseurl }}/images/frank.jpg">
+        <meta name="twitter:image" content="{{ site.url }}/images/frank.jpg">
 
         {% if page.translation %}
             {% assign lang = page.translation.locale | slice: 0,2 %}
