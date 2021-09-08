@@ -31,18 +31,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ```
 
-**Ou plus simple (juste) :**
-
-```
-## Mon titre
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-> Nam libero tempore, cum soluta nobis est eligendi optio cumque.
-
-```
-
 
 

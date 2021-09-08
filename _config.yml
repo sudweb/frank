@@ -11,8 +11,8 @@ robots: index,follow
 
 collections:
   testimonies:
-    output: true
+    output: false
 
-microtypo:
-  median: true
-
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-microtypo

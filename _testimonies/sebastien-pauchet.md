@@ -1,13 +1,14 @@
 ---
 title: :'(
 ---
+
 J'ai rencontré Frank il y a 15 ans. On a découvert tant de choses ensemble.
 
-Toutes les facettes du web, toutes ces techniques qu'il pensait ne jamais arriver à maitriser à l'époque parce qu'il n'avait pas assez confiance en lui mais qu'il a finalement tellement bien compris qu'il les a expliqués et transmis avec passion et bienveillance à tant de monde.
+Toutes les facettes du web, toutes ces techniques qu'il pensait ne jamais arriver à maîtriser à l'époque parce qu'il n'avait pas assez confiance en lui mais qu'il a finalement tellement bien compris qu'il les a expliqués et transmis avec passion et bienveillance à tant de monde.
 
 Toutes les belles personnes qui se cachent derrière ce web qu'il a su emmener et engager ensemble grâce à ses convictions et son enthousiasme et qu’il m’a fait rencontrer car j’étais trop timide pour aller les aborder moi-même.
 
-La photographie qu'il a su si bien maitriser après des heures interminables d’explications sur l’intérêt des réglages de focale et d’ouverture sur son objectif https://www.flickr.com/photos/dirtyf/albums/72157612385622759
+La photographie qu'il a su si bien maîtriser après des heures interminables d’explications sur l’intérêt des réglages de focale et d’ouverture sur son objectif https://www.flickr.com/photos/dirtyf/albums/72157612385622759
 
 Combien de soirées à boire des bières et à vouloir refaire le monde, à m’expliquer pourquoi être vegan, à lui expliquer un obscur concept technique, les sorties photos, la musique, les restos rue des Blanchers …
 
