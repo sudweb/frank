@@ -1,4 +1,6 @@
-## Quelques pensées
+---
+title: Quelques pensées
+---
 
 On se voyait peu, et pas depuis plusieures années
 Pourtant, je sens qu'on perd quelqu'un que j'aurais revu avec grand plaisir
