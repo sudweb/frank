@@ -1,5 +1,6 @@
-## :'(
-
+---
+title: :'(
+---
 J'ai rencontré Frank il y a 15 ans. On a découvert tant de choses ensemble.
 
 Toutes les facettes du web, toutes ces techniques qu'il pensait ne jamais arriver à maitriser à l'époque parce qu'il n'avait pas assez confiance en lui mais qu'il a finalement tellement bien compris qu'il les a expliqués et transmis avec passion et bienveillance à tant de monde.
