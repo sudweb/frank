@@ -13,8 +13,6 @@ collections:
   testimonies:
     output: true
 
-logo: /images/twittercard.png
-
 microtypo:
   median: true
 
