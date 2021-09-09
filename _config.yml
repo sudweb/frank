@@ -15,4 +15,3 @@ collections:
 
 plugins:
   - jekyll-optional-front-matter
-  - jekyll-microtypo

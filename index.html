@@ -104,6 +104,10 @@ title: Au regretté Frank
           blockquote p {
             display: inline;
           }
+          section {
+            display: flex;
+            flex-direction: column-reverse;
+          }
 
         </style>
 
@@ -115,13 +119,15 @@ title: Au regretté Frank
     <hr>
     <p>Page de sympathie pour le regretté Frank, vous pouvez laisser vos messages sur le : <a href="https://github.com/sudweb/frank/tree/master/_testimonies">dépôt Git de Frank</a>.</p>
     <p>Sympathy page for the late Frank, you can leave your messages on the : <a href="https://github.com/sudweb/frank/tree/master/_testimonies">Frank repo</a>.</p>
-    <section>
     <hr>
+    <section>
     {% for testimony in site.testimonies reversed %}
+      <div style="order:{{ testimony.path | file_date | date: '%s' }};">
         <h3>{% if testimony.title %}{{ testimony.title }}{% endif %}</h3>
         {{ testimony.content }}
         {% assign names = testimony.path | replace: '_testimonies/', '' | replace: '.md', '' | split:"-" %}
         <p><strong>{% for name in names %}{{ name | capitalize }}{% if forloop.last == false %}&nbsp;{% endif %}{% endfor %}</strong></p>
+      </div>
     {% endfor %}
     </section>
 </article>
