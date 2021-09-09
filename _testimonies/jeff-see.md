@@ -6,3 +6,5 @@ that showed how big of an impact I'd been having, and he shared them company-wid
 
 He taught me a lot about how to think critically and get to the heart of an issue. He was extremely blunt in the kindest way. I don't know he managed that, but he always made me think and he always made me laugh,
 I'm not sure what else you could want in a coworker. I'll regret not soaking up more time with him, but I'm thankful for the moments we had.
+
+To Frank's loved ones, please know that he was a cherished member of our team, and that you have my deepest sympathy for your loss. Thank you for sharing Frank with us.
