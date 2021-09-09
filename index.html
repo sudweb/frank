@@ -104,10 +104,10 @@ title: Au regretté Frank
           blockquote p {
             display: inline;
           }
-          section {
+          /* section {
             display: flex;
             flex-direction: column-reverse;
-          }
+          } */
 
         </style>
 
@@ -122,7 +122,7 @@ title: Au regretté Frank
     <hr>
     <section>
     {% for testimony in site.testimonies reversed %}
-      <div style="order:{{ testimony.path | file_date | date: '%s' }};">
+      <div>
         <h3>{% if testimony.title %}{{ testimony.title }}{% endif %}</h3>
         {{ testimony.content }}
         {% assign names = testimony.path | replace: '_testimonies/', '' | replace: '.md', '' | split:"-" %}
