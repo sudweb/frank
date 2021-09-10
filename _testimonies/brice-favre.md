@@ -1,3 +1,7 @@
+---
+title: Merci Frank!
+---
+
 A mon tour, je dépose un petit mot pour me rappeler de toi et participer à se souvenir des différentes facettes de ta personnalité. 
 
 Je vais faire un peu de redites en disant que tu m'as aidé à mûrir ce que j'étais, comme participant à Sub Web à Nîmes, puis orateur à Toulouse. Je me souviens encore de la manière bien à toi dont tu as défoncé mon syndrome de l'imposteur. Finalement j'ai poursivi coté orga en photographe sur 3 éditions entre Avignon, Toulouse et Montpellier. 
