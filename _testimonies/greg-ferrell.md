@@ -1,5 +1,5 @@
 ---
-title: Frank: A Man of Passion & Empathy
+title: "Frank: A Man of Passion & Empathy"
 ---
 
 I had the pleasure of working with Frank at Forestry.io. If I could only pick two words to describe Frank, I'd choose **passionate** and **empathetic**. Frank cared deeply about everything he did: his work, the web, our product, our users, his colleagues. He was passionate and direct, but always treated people with dignity and respect. He had high standards for how he treated and impacted others -always striving to leave things better than how he found them.
