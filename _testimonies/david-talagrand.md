@@ -36,5 +36,3 @@ Maintenant tu m'as convaincu, le monde tourne à l'envers.
 
 À toi Frank, adieu-siatz.
 
-
-David Talagrand
