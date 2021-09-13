@@ -1,5 +1,5 @@
 ---
-title: FRANK : Fucking Rant Against Non Knowledge
+title: FRANK - Fucking Rant Against Non Knowledge
 ---
 
 J'ai rencontré Frank il y a 15 ans. On a découvert tant de choses ensemble.
