@@ -12,4 +12,4 @@ Je crois que la seule chose que je regrette c’est que nous n’ayons pas pu no
 
 Reste que j’ai été marqué par les centaines d’heures que nous avons passé a discuter ensemble et les projets que nous avons réalisés, grâce à ta bonne humeur, ton humilité, ton envie de "faire" et de partager.
 
-Merci Frank ! :hearts:
+Merci Frank ! ❤️
