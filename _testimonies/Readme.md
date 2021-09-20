@@ -1,4 +1,4 @@
-# merci pour vos témoignages
+# Merci pour vos témoignages
 
 Vous ne pouvez pas comprendre à quel point vos témoignages nous touchent mes parents et moi-meme.
 
@@ -7,16 +7,13 @@ Le décès de Frank nous a affecté grandement. Mieux comprendre l'impact de Fra
 
 Je vous laisse méditer sur cette questions, et trouver vos propres éléments de réponse.
 
-
 _**Julie Langou Taillandier**<br>
 [@julielangou](https://github.com/julielangou)
  Soeurette éternelle de Frank_
 
-
 **PS**: et oui, Frank n'etait pas le seul geek de la famille ;-)
 
 ---
-
 
 # Thank you for your testimonies
 
@@ -27,10 +24,8 @@ Frank's passing has affected us greatly. Understanding Frank's impact on his com
 
 I leave you to meditate on this question, and find your own answers.
 
-
 _**Julie Langou Taillandier**<br>
 [@julielangou](https://github.com/julielangou)
  Frank's eternal sister_
-
 
 **PS**: and yes, Frank wasn't the only geek in the family ;-)
